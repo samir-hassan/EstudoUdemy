@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy_CSharp_Avancado", "Udemy_CSharp_Avancado.csproj", "{A8BCCAEE-10F0-4DE7-A765-6285DE079A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_biblioteca", "..\00_biblioteca\00_biblioteca.csproj", "{3ADBAFC3-12BA-4974-BE0B-21FB68326857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BCCAEE-10F0-4DE7-A765-6285DE079A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BCCAEE-10F0-4DE7-A765-6285DE079A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BCCAEE-10F0-4DE7-A765-6285DE079A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BCCAEE-10F0-4DE7-A765-6285DE079A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADBAFC3-12BA-4974-BE0B-21FB68326857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADBAFC3-12BA-4974-BE0B-21FB68326857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADBAFC3-12BA-4974-BE0B-21FB68326857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADBAFC3-12BA-4974-BE0B-21FB68326857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD00F91A-F74C-455C-BD32-CC4BD543B3B2}
+	EndGlobalSection
+EndGlobal
