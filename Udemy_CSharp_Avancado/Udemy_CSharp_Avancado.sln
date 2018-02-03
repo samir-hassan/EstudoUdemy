@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00_biblioteca", "..\00_biblioteca\00_biblioteca.csproj", "{3ADBAFC3-12BA-4974-BE0B-21FB68326857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializar_Deserializar_Xml_Json", "..\Serializar_Deserializar_Xml_Json\Serializar_Deserializar_Xml_Json.csproj", "{CF8A9AD0-0C25-4AED-A76E-2D44CC97D14D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Serializar_Deserializar_Xml_Json", "..\Serializar_Deserializar_Xml_Json\01_Serializar_Deserializar_Xml_Json.csproj", "{CF8A9AD0-0C25-4AED-A76E-2D44CC97D14D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Generics_VarDynamic_Nullable", "02_\02_Generics_VarDynamic_Nullable.csproj", "{08AE0CCC-C108-43C9-AD8F-42A52900DBDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CF8A9AD0-0C25-4AED-A76E-2D44CC97D14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF8A9AD0-0C25-4AED-A76E-2D44CC97D14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF8A9AD0-0C25-4AED-A76E-2D44CC97D14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08AE0CCC-C108-43C9-AD8F-42A52900DBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AE0CCC-C108-43C9-AD8F-42A52900DBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AE0CCC-C108-43C9-AD8F-42A52900DBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AE0CCC-C108-43C9-AD8F-42A52900DBDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
