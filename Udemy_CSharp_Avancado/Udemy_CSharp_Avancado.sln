@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Eventos", "05_Eventos\05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Threads_Execucao_Em_Paralelo", "06_Threads_Execucao_Em_Paralelo\06_Threads_Execucao_Em_Paralelo.csproj", "{0B7AA4CE-293F-4282-B7CD-D032ACB403BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Tasks_Forms", "07_Tanks\07_Tasks_Forms.csproj", "{58BEF947-C1F2-4BBB-88D5-FA3646595223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Tasks_ConsoleApp", "07_Tasks_ConsoleApp\07_Tasks_ConsoleApp.csproj", "{2ECCF835-0C81-4B5B-8E3A-BA1C7613D52B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{0B7AA4CE-293F-4282-B7CD-D032ACB403BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B7AA4CE-293F-4282-B7CD-D032ACB403BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B7AA4CE-293F-4282-B7CD-D032ACB403BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58BEF947-C1F2-4BBB-88D5-FA3646595223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BEF947-C1F2-4BBB-88D5-FA3646595223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BEF947-C1F2-4BBB-88D5-FA3646595223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BEF947-C1F2-4BBB-88D5-FA3646595223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECCF835-0C81-4B5B-8E3A-BA1C7613D52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECCF835-0C81-4B5B-8E3A-BA1C7613D52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECCF835-0C81-4B5B-8E3A-BA1C7613D52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECCF835-0C81-4B5B-8E3A-BA1C7613D52B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
